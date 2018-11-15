@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/ScaleBreaks/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/ScaleBreaks/MainWindow.xaml))
+<!-- default file list end -->
 # How to: Manually Insert Scale Breaks into an Axis
 
 
